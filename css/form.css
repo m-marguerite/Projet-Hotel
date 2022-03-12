@@ -1,0 +1,24 @@
+.titre {
+  font-family:  serif;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  text-decoration:underline;
+  color: #87591A;
+}
+
+.form {
+  margin-left: 50%;
+  margin-bottom: 5%;
+  font-size: 30px;
+  font-family: serif;
+  color: #CECECE;
+}
+
+
+.texte_contacter {
+  font-family: serif;
+  font-size: 30px;
+  margin:3%;
+  color: #CECECE;
+}

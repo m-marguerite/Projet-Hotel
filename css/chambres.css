@@ -1,0 +1,61 @@
+.boite1 {
+  margin: 1%;
+  padding: 1%;
+  width: 98%;
+  background-color:white;
+  text-align: center;
+  margin-left: 0px;
+  font-family: serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.boite2{
+  height: 40%;
+  width: 90%;
+  margin-left: 5%;
+  background-color: #EFEFEF;
+}
+
+.image_gauche {
+  height: 100%;
+  width: 40%;
+}
+
+.txt_rooms1 {
+  float: right;
+  font-size: 20px ;
+  margin-right: 40%;
+  margin-top: 5%;
+
+}
+
+.boite3{
+  height: 40%;
+  width: 90%;
+  margin-left: 5%;
+  background-color: #EFEFEF;
+}
+
+.boite4{
+  height: 40%;
+  width: 90%;
+  margin-left: 5%;
+  background-color: #EFEFEF;
+}
+
+.boite5{
+  height: 40%;
+  width: 90%;
+  margin-left: 5%;
+  background-color: #EFEFEF;
+}
+
+.bandeauMenu{
+  background-color:#303030;
+  margin-top: 2%;
+  margin-bottom:0px;
+  height:20%;
+  width:100%;
+  overflow:hidden;
+}

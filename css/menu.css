@@ -1,0 +1,25 @@
+nav ul{
+  padding: 0.5%;
+  margin: 0.5%;
+  background-color:white;
+  text-align: center;
+  width: 80%;
+  margin-left: 10%;
+}
+
+nav li{
+  display:inline-block;
+  width: 23.67%;
+  margin: 0.1%;
+  padding: 0.1%;
+  border-right: 2px solid white ;
+  line-height: 40px;
+}
+
+nav li a{
+  display: block;
+  text-decoration:underline;
+  font-family: serif;
+  font-weight: bold;
+  color: #87591A;
+}

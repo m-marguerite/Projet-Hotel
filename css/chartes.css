@@ -1,0 +1,22 @@
+
+.boite1 {
+  margin: 1%;
+  padding: 1%;
+  width: 98%;
+  background-color:white;
+  text-align: center;
+  margin-left: 0px;
+  font-family: serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.boite_a {
+  margin: 1%;
+  padding: 1%;
+  width: 98%;
+  background-color:#EFEFEF;
+  text-align: center;
+  margin-left: 0px;
+  font-family: serif;
+}

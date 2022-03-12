@@ -1,0 +1,71 @@
+
+.txt_rooms2 {
+  float: right;
+  font-size: 20px ;
+  margin-right: 15%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.txt_rooms3 {
+  float: right;
+  font-size: 20px ;
+  margin-right: 15%;
+  margin-top: 5%;
+  text-align: center;
+}
+.txt_rooms4 {
+  float: right;
+  font-size: 20px ;
+  margin-right: 10%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.image_gauche {
+  height: 100%;
+  width: 40%;
+}
+
+.boite1 {
+  margin: 1%;
+  padding: 1%;
+  width: 98%;
+  background-color:white;
+  text-align: center;
+  margin-left: 0px;
+  font-family: serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.boite2{
+  height: 50%;
+  width: 80%;
+  margin-left: 10%;
+  background-color: #EFEFEF;
+}
+
+.boite3{
+  height: 50%;
+  width: 80%;
+  margin-left: 10%;
+  background-color: #EFEFEF;
+}
+
+.boite4{
+  height: 50%;
+  width: 80%;
+  margin-left: 10%;
+  background-color: #EFEFEF;
+}
+
+
+.bandeauMenu{
+  background-color:#303030;
+  margin-top: 2%;
+  margin-bottom:0px;
+  height:20%;
+  width:100%;
+  overflow:hidden;
+}
